@@ -1,9 +1,9 @@
 {
-  "version": "1.0.30",
-  "date": "2026-10-31",
-  "zip": "releases/appapi-1.0.30.zip",
-  "sha256": "70bb2bf9440e75040a6a982304f3c5b1f328a931cc33897c78dcbe1f7a5b97b2",
-  "signature": "JV6jRbxVpWoOmWDOhxJQ9uG5tBK04UKHek9mAavYWvbpx7NbL8rextausr4ISEybTBd3R3qafyiyGTnJU552+vkF83HRV2msunzs3ugS6ns3k+fVBdlqHpOVTKJH98JMbyLlLH6ODmUDiXGZwiyo0eea/Tv75b6eSCN9kI+aVW0fu/YkEg8gpYsVLm5ZaKr7GZagi2gIy3NbEq6A4IgdUH3Mjf0XLfQA5CgszQTUSZlIFv7XpDSLbE1VR8m1r7Zeh/V8BafCokBd/yt/JEkIxbheqsLBP68oCvcg5Fg0HxBgO1/0IHhBZ7cE6dxIZn71DpeuHnxq/gscnROZmu948+IMqoU44P8a/Jkm+AXcR/dgkKW1NZJkIn2rY36KVbUs2tTMlZUYvZHZw2jOLnzLe92zNJDMNSfiJbunDPyXqNTyDUbobPUzXc/CpNYuDb7IXBNshuaA778jodgGAPKzQgZFWe3kdDLOSnjk3sqQxYJp6cuVFkBmf/seLMRnCuc4",
+  "version": "1.0.31",
+  "date": "2026-11-01",
+  "zip": "releases/appapi-1.0.31.zip",
+  "sha256": "8a83ec050057cee3b0f3ae0896aaa33b6e1e1fec805a349f6fa1f8f9fecb56a8",
+  "signature": "ZyCPU4avBidXBeCgfQj0ZAQ1+p1lVw7hvkv4wGtUG4Gbz4YLp491AV8eLbJ9U9Yjse5TjAfeMvcUmJO6SDqEIshxss1lIkqp5fDzxJwKNR9c3rY71NFfLcFa9jC58ftzSMY8AyXDyv4reN3WdN33UfV+ZzMaLm3jK//CLYxPVoOs+V56kAzxrPT5ln1DaOkwNe/wISk15W1eI2x4NGM0yulDwVvMfx+FtcwDmxDdE4fjxMsnPTtFTcrPUDkzqQXGc/WEpPjcSad9zf6118kx4+EzOM90l+hzD3WSoRYjukblUemTNQHXL+QApQSqWjKjEvEH/UtbdQBBLHvGF9g55rtcevSTlmlBbt+9Nc+teCgVlTS4FiXhQAHUQm76PvLYiDtwuKzZutvkowp5La61BUQeOMQF1lLmW0EKIuri1+NL1+OcyrepvpEcwl2DQIv9OH9oBj+w1Du09u2fB+jxBshYH+Qnoew+AJ9S7rUGwr1eTqsZiITAttJAa+zK1Ou6",
   "min_php": "7.1",
-  "notes": "플러그인 관리 화면 아이콘(XE3·그누보드7)"
+  "notes": "공개 저장소를 회사 조직(github.com/easyapplabs)으로 옮겼습니다, 홈 새 글·내 글·스크랩에도 글의 앱 언어 제목"
 }
