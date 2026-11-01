@@ -1,9 +1,9 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "date": "2026-11-01",
-  "zip": "releases/appapi-1.0.31.zip",
-  "sha256": "8a83ec050057cee3b0f3ae0896aaa33b6e1e1fec805a349f6fa1f8f9fecb56a8",
-  "signature": "ZyCPU4avBidXBeCgfQj0ZAQ1+p1lVw7hvkv4wGtUG4Gbz4YLp491AV8eLbJ9U9Yjse5TjAfeMvcUmJO6SDqEIshxss1lIkqp5fDzxJwKNR9c3rY71NFfLcFa9jC58ftzSMY8AyXDyv4reN3WdN33UfV+ZzMaLm3jK//CLYxPVoOs+V56kAzxrPT5ln1DaOkwNe/wISk15W1eI2x4NGM0yulDwVvMfx+FtcwDmxDdE4fjxMsnPTtFTcrPUDkzqQXGc/WEpPjcSad9zf6118kx4+EzOM90l+hzD3WSoRYjukblUemTNQHXL+QApQSqWjKjEvEH/UtbdQBBLHvGF9g55rtcevSTlmlBbt+9Nc+teCgVlTS4FiXhQAHUQm76PvLYiDtwuKzZutvkowp5La61BUQeOMQF1lLmW0EKIuri1+NL1+OcyrepvpEcwl2DQIv9OH9oBj+w1Du09u2fB+jxBshYH+Qnoew+AJ9S7rUGwr1eTqsZiITAttJAa+zK1Ou6",
+  "zip": "releases/appapi-1.0.32.zip",
+  "sha256": "4aad1ebde721b462896a4d12cead5ad4617bdbac5dfa316fd1ba7b93a4ae4b0f",
+  "signature": "GvUMu92uy6TS6y8iUiZee6YtLaWkXxzftrcY48fDDGyXT2YLmgtvoOob3XQBGQQPaD7d66E4YQ+BMEveQ7f8REOYiyPT/xuAJM5K5nr15+oan2/z5vPLAcXdt1Aw4KWwo3oKY2k4WvQxupEHIsMkpbxlVS0q+OhVf0pG7GcUgH1Sp9t6dVEv9e4msUHOc5zWZXVmIIlcQ4YPAj3zsNwgjxODbo+PMO66aZtYhSY4ZnNCbKV0tgW4NmkYUUZ0YGb5PYw5kww7zWtrODcpQLGMzK332CoDbmV5RFliW12eka31SSZbvDXTJNdlXj0R8D03w2D38kpem0SMGXutnK0irVWHorHDF2NUgq0ei1dAUOQ+Knx93pjaa0utk+7QslaBILqLdyeYOAI5eA3pMy2Cvcbbvjd7utIIdvs2JvO7csx7R51vSz9nf+x9tQ1KhASy9aXP6YOMGqE6dvqqkKuS2Y9Th1uZM1AI5iq3UPDfPXEus/Bdm+mTwLSxPw6NhwOQ",
   "min_php": "7.1",
-  "notes": "공개 저장소를 회사 조직(github.com/easyapplabs)으로 옮겼습니다, 홈 새 글·내 글·스크랩에도 글의 앱 언어 제목"
+  "notes": "회원 등급·포인트 이름을 앱 언어로(사이트가 다국어로 정한 경우)"
 }
