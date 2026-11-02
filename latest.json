@@ -1,9 +1,9 @@
 {
-  "version": "1.0.32",
-  "date": "2026-11-01",
-  "zip": "releases/appapi-1.0.32.zip",
-  "sha256": "4aad1ebde721b462896a4d12cead5ad4617bdbac5dfa316fd1ba7b93a4ae4b0f",
-  "signature": "GvUMu92uy6TS6y8iUiZee6YtLaWkXxzftrcY48fDDGyXT2YLmgtvoOob3XQBGQQPaD7d66E4YQ+BMEveQ7f8REOYiyPT/xuAJM5K5nr15+oan2/z5vPLAcXdt1Aw4KWwo3oKY2k4WvQxupEHIsMkpbxlVS0q+OhVf0pG7GcUgH1Sp9t6dVEv9e4msUHOc5zWZXVmIIlcQ4YPAj3zsNwgjxODbo+PMO66aZtYhSY4ZnNCbKV0tgW4NmkYUUZ0YGb5PYw5kww7zWtrODcpQLGMzK332CoDbmV5RFliW12eka31SSZbvDXTJNdlXj0R8D03w2D38kpem0SMGXutnK0irVWHorHDF2NUgq0ei1dAUOQ+Knx93pjaa0utk+7QslaBILqLdyeYOAI5eA3pMy2Cvcbbvjd7utIIdvs2JvO7csx7R51vSz9nf+x9tQ1KhASy9aXP6YOMGqE6dvqqkKuS2Y9Th1uZM1AI5iq3UPDfPXEus/Bdm+mTwLSxPw6NhwOQ",
+  "version": "1.0.33",
+  "date": "2026-11-02",
+  "zip": "releases/appapi-1.0.33.zip",
+  "sha256": "e877b1560df5d8d6bb26752e780af509b7a268e7562edeee366bf4305d1ea048",
+  "signature": "Nj/TKAO6J0chd5cb1DCkbkZXqNbpcjSVAJt4aJmrn6CQMt6tOqse07HMods/Lbe04KeGsRXDcgmmWw20KQTOpWhZF1u88r2oJlmCYt/sn4yDD9CrKvVum9z1fdGzyxTEdDGx9h9Ie9auc4f9XN1eHL+JaZfdnmr+gOXp/6Vi86g9mskj3q0pkvRtsk+Pznp/Dg2cPTtLUMMfAveaUYIJsHVYibloQ0RKyKQQCQ+OlZtR4whJsTJj0kWOA/cr48Db4bYml5+IEmTHfGPrxyxCvAOvGWgatEH5g1EadpedT40+P4mPc4lDeWYkp8V9g1CIPD7ySHQ4bJoCQWwBSfgbCUun+1jSYK2jqPor71CE/gYmzf3CpnEBD2oW9Wf6teEs1Ub5qiPoqtTZ9QXbp/UiKql25T/hujKCo3WxA7c+b6o3/SnuoAdpPp+iS4awrUAMjtxv6YKNLVTo1cscRGX4OeJuPR5pK+363dobWr0SfeYkPp72AswKomZ4xtV501oH",
   "min_php": "7.1",
-  "notes": "회원 등급·포인트 이름을 앱 언어로(사이트가 다국어로 정한 경우)"
+  "notes": "PHP 8 에서 [업데이트 확인]이 멈추던 문제 고침"
 }
