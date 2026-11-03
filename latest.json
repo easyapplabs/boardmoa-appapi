@@ -1,9 +1,9 @@
 {
-  "version": "1.0.33",
-  "date": "2026-11-02",
-  "zip": "releases/appapi-1.0.33.zip",
-  "sha256": "e877b1560df5d8d6bb26752e780af509b7a268e7562edeee366bf4305d1ea048",
-  "signature": "Nj/TKAO6J0chd5cb1DCkbkZXqNbpcjSVAJt4aJmrn6CQMt6tOqse07HMods/Lbe04KeGsRXDcgmmWw20KQTOpWhZF1u88r2oJlmCYt/sn4yDD9CrKvVum9z1fdGzyxTEdDGx9h9Ie9auc4f9XN1eHL+JaZfdnmr+gOXp/6Vi86g9mskj3q0pkvRtsk+Pznp/Dg2cPTtLUMMfAveaUYIJsHVYibloQ0RKyKQQCQ+OlZtR4whJsTJj0kWOA/cr48Db4bYml5+IEmTHfGPrxyxCvAOvGWgatEH5g1EadpedT40+P4mPc4lDeWYkp8V9g1CIPD7ySHQ4bJoCQWwBSfgbCUun+1jSYK2jqPor71CE/gYmzf3CpnEBD2oW9Wf6teEs1Ub5qiPoqtTZ9QXbp/UiKql25T/hujKCo3WxA7c+b6o3/SnuoAdpPp+iS4awrUAMjtxv6YKNLVTo1cscRGX4OeJuPR5pK+363dobWr0SfeYkPp72AswKomZ4xtV501oH",
+  "version": "1.0.34",
+  "date": "2026-11-03",
+  "zip": "releases/appapi-1.0.34.zip",
+  "sha256": "2ac0a510b98ecb071e188d8fccd0ba4f3b3780e2abf2246673c51d29e44b33bd",
+  "signature": "IzGP9SQMAmOXRwACwn0uD3ShgYCBM+5bjvTdGCkM9zMCv/a9XG6WvNKzDMn+q8i64AfmZZx0WcT/p6DWILlURj0Cw4ajPOgOnesHSoBlJLe34/PnpatmlmD6mPDf4L7k+u9zzD3z9etvdszqLkeMg1czG2QUFJTmbsgtmt1LSl5gXAWJPx8dqjqJg0NjiVhG8dsyhszwejW0RTm53q1Ohp0TvbgjRsj+N/6Y5ko1ZbI4Xx1oRJdcHEE1JpcN0D2qV6n1X0JgicvwmKztuub8tIsCkT/KQXVH13xq1KxNMrKWJBGhjixUuEgX6kVHBsV5BroUvvpOU94Rsv+9D/S/MBUmmiUEq+/ut17+ycU5TMv2av2uyEV3fga8s1+YrUX7HI5Cu+KE7srhCrFBMf8p5qqUdGsAFBiDx+MVw0oRnVJ32RI82Pwj4U6xoLoBIm2mkAsSeqAV/qnlSpLTImm35f8Jkjo7Za29CTPGlXofnigXA6H6Oz2kEtl1B0CsEKm7",
   "min_php": "7.1",
-  "notes": "PHP 8 에서 [업데이트 확인]이 멈추던 문제 고침"
+  "notes": "다른 엔진과 번호 맞춤"
 }
