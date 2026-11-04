@@ -1,9 +1,9 @@
 {
-  "version": "1.1.2",
-  "date": "2026-11-04",
-  "zip": "releases/appapi-1.1.2.zip",
-  "sha256": "09216be7bdc01e935ac3d71e076d51d22a166f88f9cc82d7a71e02d8f782767d",
-  "signature": "WOCPgyFIrb4qQyuR8hurtrbYKOIid2393Az66O5AYbdZt/mPmJ7X1V/TrVXQ8Dj3TnT1ZebY0aNgbJgXfmOXPWo7ZSiWy2+3j/inEhfyAvd7lqBAbs/VfZsaDBFg69xgwpW4iSBAdqyt9g6onBkiRLmW/WX+pX+4SiuSXW6F7ZXtNsxTiMepMKN37Pr1w32wgY9nux5twYct7aCsS71VPy3RRp6rebjGl2fJtfF6OZiwKAeLUljFGNtShq7tZF+1fbeeD9K59w1pxyXFDhrOk1hQAYwrfE0bmpRWLE5X8QkamU68NbLgWVEoeBauoOlrQjXe9941JLyw0T7kjNeA7P+2Bt1HQjQZDGlHzdtfqFKxVP7/uc/5bFYldTjov82keQhcQJ2PspJV35Zkq5t6tQSALQRK1aRbuOGxtM0KDAdy5ehUeUS0n0UI/SWLtLoAp897pwrqlT0h/kADjXtR7gilO6649ELVNmDBrthe45vr27SMJz8pbXTnY33fD7nv",
+  "version": "1.1.3",
+  "date": "2026-11-05",
+  "zip": "releases/appapi-1.1.3.zip",
+  "sha256": "08babce515b40177d214251deec2fb8da29143d5ac0ada718b2705ea5d2b3205",
+  "signature": "OAtvbQjYSxqHOQYdLanIeKrluXmOzLrbtm28eFUudet5cpGTqo5QRhmvRAhIxIfQgMq/JB0bN85V0+4pPIzE8G7oCUTRZf5YsEyVXOYR4Agp1WkLlwkEFJ19YkdZImCrTxnnhl61dyDOO2jepAoIBLJHa+es8kzJD1G5GZdUwiXmKkp/OkSt7njIXchIK9ekbu59/E3/03Irw+MqS4EeZOTJ1fqcEDoHNkKKrbwLjkmMuVnsYi46yToY2rPjWuKjD2TAhW2vUmMPHYHRgUcc3wzFagquz1TQ94KHmxoGMCRbWSPDNyXS0xROVkKXpvXSlvTsGLpc7I0/Ji98B+zhJVtXXdJz+mMTgLFU8keCGhwXPj8JtVxaREmXw6skvTyiPMa96kidz0S4tNCJ6LDTeT9sew9kxBXGfCrHmkAn3xi43NeRboV0sydnrG/ENRIYhK0n79BiUomZSzMrt/ZXMCWXv3hu+1aFAuLPuKOQJCcPPCjUv4bztg3uPQBGM7Ph",
   "min_php": "7.1",
-  "notes": "앱의 웹 화면 속 게시판·페이지 링크가 앱 화면으로 열리도록 개선했습니다."
+  "notes": "앱의 웹 화면 속 쇼핑몰 링크를 웹과 같은 주소로 맞췄습니다."
 }
