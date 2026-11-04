@@ -1,9 +1,9 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.4",
   "date": "2026-11-05",
-  "zip": "releases/appapi-1.1.3.zip",
-  "sha256": "08babce515b40177d214251deec2fb8da29143d5ac0ada718b2705ea5d2b3205",
-  "signature": "OAtvbQjYSxqHOQYdLanIeKrluXmOzLrbtm28eFUudet5cpGTqo5QRhmvRAhIxIfQgMq/JB0bN85V0+4pPIzE8G7oCUTRZf5YsEyVXOYR4Agp1WkLlwkEFJ19YkdZImCrTxnnhl61dyDOO2jepAoIBLJHa+es8kzJD1G5GZdUwiXmKkp/OkSt7njIXchIK9ekbu59/E3/03Irw+MqS4EeZOTJ1fqcEDoHNkKKrbwLjkmMuVnsYi46yToY2rPjWuKjD2TAhW2vUmMPHYHRgUcc3wzFagquz1TQ94KHmxoGMCRbWSPDNyXS0xROVkKXpvXSlvTsGLpc7I0/Ji98B+zhJVtXXdJz+mMTgLFU8keCGhwXPj8JtVxaREmXw6skvTyiPMa96kidz0S4tNCJ6LDTeT9sew9kxBXGfCrHmkAn3xi43NeRboV0sydnrG/ENRIYhK0n79BiUomZSzMrt/ZXMCWXv3hu+1aFAuLPuKOQJCcPPCjUv4bztg3uPQBGM7Ph",
+  "zip": "releases/appapi-1.1.4.zip",
+  "sha256": "d53e0eef4e548216249b285e9b420e23c786724b11a789bf11156676b5d7c570",
+  "signature": "qV1XUMPJfhoVAhIuTmshZHwBl7Rp8Tu/5E72EEJZuqWO+9ZWae0HPNGqzUGCRZJDBCWzApFujGDlv/FAkH65qehAvXYcBMgmMO1q91j8V5faTK9IofEm2G0ByosGZyezBmo0PgGDDZek79jAQTqKICKCoAa+Bn2es/HK0TM8ZVx7EPiMdXSCr58z5DphXcQkjEiNE45JdrAsZHvG4SvZc0Jse+lb6WZiHw/GQgOdSd6CKg16Eyh+9YAarfYDXcQkQ8ndsqxSL6/nQm0xESFUO/96AW8w/D6Q+qDPRZR5QQjQJ7oNBqQ7csi5+8oxDzlSew3tXS3Phc7pAWs4ukqmnbKO6n5eJ6MO2plccKfxqN05p82CMSvWZrx79uN/Af9CaOgE/YRIu6jVw8TDKcUE0ZbK1Aee0iydzy2ZfPZbTUhLdIN6IW6vlhIAByow8FwiQP8lZmu5RloFODH24OhJeoCl+phLOuUC0itKOrweLM6SE1SSFWczT4Sb6YII2mHs",
   "min_php": "7.1",
-  "notes": "앱의 웹 화면 속 쇼핑몰 링크를 웹과 같은 주소로 맞췄습니다."
+  "notes": "앱의 메뉴를 사이트 웹 메뉴와 같은 구성으로 보여 주고, 웹 화면 속 링크 주소를 바로잡았습니다."
 }
