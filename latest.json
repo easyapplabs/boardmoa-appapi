@@ -1,9 +1,9 @@
 {
-  "version": "1.0.35",
-  "date": "2026-11-03",
-  "zip": "releases/appapi-1.0.35.zip",
-  "sha256": "60ef74fb37ccc73254f971dd934c0aee32c55053cb23c4d0c7db9cd5728ef0b6",
-  "signature": "gZP9QXUlychQqntr5aBDeos75SPJ6oeNnpDx33J3L+MMZcj71OkUnSQgD6WdhXX0nrrggiDYdOMWYeAZynSRjsc41lLDclB5Zpd12dyuytFVksHuciE67avpSdT8kxWqF0jDC3GIF7/2w3i/O/YTcnyi1po8gotnsvw3RBzg36iIVVchnd5ATFhF+8vqAPD7mwWmlGTz1q83u7sY+rbKLiiFLJ+3Gx3pUqsEkN+RY8lNcwqmuDcijBURVe/xGOkvva6PUUjXO7ZAxLaILQpnB/4lkvqrxmnBAmSwXU4KoOXtf2HH6/WTafGcYKY9K9EUBxS5TKi6wPe+UzmLcegGvoIJwPO8TWefRmESlvmEUUHTwQVaNlzM9vWcntX7LEyNduYRXMxjayFbULBEt2ekOKugyKtBuo/LPzljij3FR6NV+Sp2n7HxcUUfpvH5i+nQjdaud4w00e+NfcBUodaZ41njhcx52Y4EScidizEphndrHpcnrs3FF1oFKxIUIox6",
+  "version": "1.1.1",
+  "date": "2026-11-04",
+  "zip": "releases/appapi-1.1.1.zip",
+  "sha256": "81c63b8c90b742d11d66985944e6bb349d7a8c9ac7e84aa03bbd29afe4c24026",
+  "signature": "SB8z2LOuQF4/g9S+cs8svQRgNVfDnKKXXhsVqw0L98JxvDTAZ8KYp1+5bDuQxwA5iMu09KBHeAlNif0KD7Q9y2lKxUVD2PHQ+4L/r/8brHvYyvvAiL4JkLmfYEiT10vKx/FZVxR7Fjlc04NszKPixZUVthGSHc24KVx4Afv7rkyIc2UvRfM0QtnCsXsp40tlTXpqJvx1h5Lt9vU5qIA25H4q6HsDzPCAzJgaduHrZh46jiCTL+zwEIQWsVh97sdldwR8+ivT54o+x91OJtXFrrmnuBWbUcQwt9mRqBZKPmeo4g1zvSp+Nck0VzhltBzAwlEPCIY9O2nk5JIP/jGHDCH6osm2Jf1EZwibyUXD8QLV/dT1fUPLXWTwblzeP8EdvExfG+PFWTIRGCa+4rTYZPD4RUM1nYKzT9OkVD9GhyFAg4+CBKnNFiMtGotmtamPeR8/nLbtAqzGzER9lGR/21J4qrZ2Hl7THcCH4VZ/gvwXTsM9KeMqA0OXSqtzs0Oq",
   "min_php": "7.1",
-  "notes": "다른 엔진과 번호 맞춤"
+  "notes": "앱의 '페이지로 보기'(사이트 화면을 웹과 같은 모양으로 보기)를 지원합니다."
 }
