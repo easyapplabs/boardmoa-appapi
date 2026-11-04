@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "date": "2026-11-04",
-  "zip": "releases/appapi-1.1.1.zip",
-  "sha256": "81c63b8c90b742d11d66985944e6bb349d7a8c9ac7e84aa03bbd29afe4c24026",
-  "signature": "SB8z2LOuQF4/g9S+cs8svQRgNVfDnKKXXhsVqw0L98JxvDTAZ8KYp1+5bDuQxwA5iMu09KBHeAlNif0KD7Q9y2lKxUVD2PHQ+4L/r/8brHvYyvvAiL4JkLmfYEiT10vKx/FZVxR7Fjlc04NszKPixZUVthGSHc24KVx4Afv7rkyIc2UvRfM0QtnCsXsp40tlTXpqJvx1h5Lt9vU5qIA25H4q6HsDzPCAzJgaduHrZh46jiCTL+zwEIQWsVh97sdldwR8+ivT54o+x91OJtXFrrmnuBWbUcQwt9mRqBZKPmeo4g1zvSp+Nck0VzhltBzAwlEPCIY9O2nk5JIP/jGHDCH6osm2Jf1EZwibyUXD8QLV/dT1fUPLXWTwblzeP8EdvExfG+PFWTIRGCa+4rTYZPD4RUM1nYKzT9OkVD9GhyFAg4+CBKnNFiMtGotmtamPeR8/nLbtAqzGzER9lGR/21J4qrZ2Hl7THcCH4VZ/gvwXTsM9KeMqA0OXSqtzs0Oq",
+  "zip": "releases/appapi-1.1.2.zip",
+  "sha256": "09216be7bdc01e935ac3d71e076d51d22a166f88f9cc82d7a71e02d8f782767d",
+  "signature": "WOCPgyFIrb4qQyuR8hurtrbYKOIid2393Az66O5AYbdZt/mPmJ7X1V/TrVXQ8Dj3TnT1ZebY0aNgbJgXfmOXPWo7ZSiWy2+3j/inEhfyAvd7lqBAbs/VfZsaDBFg69xgwpW4iSBAdqyt9g6onBkiRLmW/WX+pX+4SiuSXW6F7ZXtNsxTiMepMKN37Pr1w32wgY9nux5twYct7aCsS71VPy3RRp6rebjGl2fJtfF6OZiwKAeLUljFGNtShq7tZF+1fbeeD9K59w1pxyXFDhrOk1hQAYwrfE0bmpRWLE5X8QkamU68NbLgWVEoeBauoOlrQjXe9941JLyw0T7kjNeA7P+2Bt1HQjQZDGlHzdtfqFKxVP7/uc/5bFYldTjov82keQhcQJ2PspJV35Zkq5t6tQSALQRK1aRbuOGxtM0KDAdy5ehUeUS0n0UI/SWLtLoAp897pwrqlT0h/kADjXtR7gilO6649ELVNmDBrthe45vr27SMJz8pbXTnY33fD7nv",
   "min_php": "7.1",
-  "notes": "앱의 '페이지로 보기'(사이트 화면을 웹과 같은 모양으로 보기)를 지원합니다."
+  "notes": "앱의 웹 화면 속 게시판·페이지 링크가 앱 화면으로 열리도록 개선했습니다."
 }
