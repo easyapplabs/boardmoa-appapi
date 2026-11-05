@@ -1,9 +1,9 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "date": "2026-11-06",
-  "zip": "releases/appapi-1.1.5.zip",
-  "sha256": "46caf7f0583f91f92e0511c319681b8718d7b9238499737b5344599349acee8c",
-  "signature": "Fc4rgBzs4fBsyI3JwDgwRFb7y4akJwWxdelyES+DbQs3YrfD2H8OjHDBDvsFANIN5IErVBu0+4lZ9/BHKprOqTjXkYmuwu0ShGSlAjjdEKeQxhSENiFmbfWwGVua8gp2Puh6ZsWB5vLxQuWhBfWNiTJkfxtCt2rz/0d0ja+nyMRwH6HaCB4gCfxMm08736poaLw1+Sf2QGuZSryAWuuCfiFVthjd0nc2ol2XOaXdhty7GDu6ASSMnswv8umVDDjqJ5VZ4FLfbyP50VTlM3X+/HEYhC1e7yj4o2bxGem+8xfYrLw5/Wvl3mH6xbPB1mFwULhFRpBOSno4+KnIPn6JLRrY9thmOdLuWUawW2jvCf11o8zQOFjU8AkRZ2+kO+0jUtqOZyDui2qkemq3117TppnIZNjYDKqPsdsgd5jSExc11hu8uYr7IXVQcN6Ksb+sY3TbLZjnXuJT/Br9H8z/sKobFzqvsfJiKkTeXwlLLQibwdbEClKezxk8ReH9r67Z",
+  "zip": "releases/appapi-1.1.6.zip",
+  "sha256": "0bc96858e4ae732a431b99e794cf1017553faa3b70b0350300da4ad28a6e0354",
+  "signature": "U/R9MM9BP3iQ+5UBepKMvcWh2ApIALEWb0kOJWEsgiz1TO2MLX4VEM1f0Nh50FXmM9NSMnk4AddNd2KNorKrC34MzPS1TSHzvDvA+VOJ34KRTyh52D6P1XjtMzysGMHfi+Gidqq3JhJjja7deXLn6qiQDNLYvkSkf+RTDmFTR26xmZityOyzxTQM8rl/wKqaSTPCnBEzW/t2tCUOM/Bu6IevvQdufS+6e5Y7RuQZXQ8TGIKqcHfXsGyNwSyJ3wfMfWvp7U1Bt8Nlt8Da2dasTNSJDBZKNYFMyMsddJComRuAeuMvq8AafkCvJYnUS8k2k1qkxiPzSbAY3P96ebIqmZfDmb8lx9W5yYmqDQn+Hfop2MzP8od1BFgT13hKgOAqfWAWHOxFiA/m5t7ZJJiqOEspOMpZ6rb6dq0SK89iaDyynCYv7oVFTdk42E7FVz1ocVTO9XnZTI9aihten2X+SrpVXpMtMr/6a6Lzu07NaANM/F/rBNiFqUsGtTRqHA3q",
   "min_php": "7.1",
-  "notes": "이름 표시: 작성자·추천인 기본값도 고르지 않은 채로 둘 수 있습니다(고르지 않으면 웹과 같은 닉네임). 이미 고른 설정은 그대로입니다."
+  "notes": "이름 표시: 작성자·추천인 기본값과 쪽지·친구에 '기본값(웹과 같게)' 단추를 넣었습니다. 이미 고른 설정은 그대로입니다."
 }
