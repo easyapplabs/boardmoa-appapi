@@ -1,9 +1,9 @@
 {
-  "version": "1.1.4",
-  "date": "2026-11-05",
-  "zip": "releases/appapi-1.1.4.zip",
-  "sha256": "d53e0eef4e548216249b285e9b420e23c786724b11a789bf11156676b5d7c570",
-  "signature": "qV1XUMPJfhoVAhIuTmshZHwBl7Rp8Tu/5E72EEJZuqWO+9ZWae0HPNGqzUGCRZJDBCWzApFujGDlv/FAkH65qehAvXYcBMgmMO1q91j8V5faTK9IofEm2G0ByosGZyezBmo0PgGDDZek79jAQTqKICKCoAa+Bn2es/HK0TM8ZVx7EPiMdXSCr58z5DphXcQkjEiNE45JdrAsZHvG4SvZc0Jse+lb6WZiHw/GQgOdSd6CKg16Eyh+9YAarfYDXcQkQ8ndsqxSL6/nQm0xESFUO/96AW8w/D6Q+qDPRZR5QQjQJ7oNBqQ7csi5+8oxDzlSew3tXS3Phc7pAWs4ukqmnbKO6n5eJ6MO2plccKfxqN05p82CMSvWZrx79uN/Af9CaOgE/YRIu6jVw8TDKcUE0ZbK1Aee0iydzy2ZfPZbTUhLdIN6IW6vlhIAByow8FwiQP8lZmu5RloFODH24OhJeoCl+phLOuUC0itKOrweLM6SE1SSFWczT4Sb6YII2mHs",
+  "version": "1.1.5",
+  "date": "2026-11-06",
+  "zip": "releases/appapi-1.1.5.zip",
+  "sha256": "46caf7f0583f91f92e0511c319681b8718d7b9238499737b5344599349acee8c",
+  "signature": "Fc4rgBzs4fBsyI3JwDgwRFb7y4akJwWxdelyES+DbQs3YrfD2H8OjHDBDvsFANIN5IErVBu0+4lZ9/BHKprOqTjXkYmuwu0ShGSlAjjdEKeQxhSENiFmbfWwGVua8gp2Puh6ZsWB5vLxQuWhBfWNiTJkfxtCt2rz/0d0ja+nyMRwH6HaCB4gCfxMm08736poaLw1+Sf2QGuZSryAWuuCfiFVthjd0nc2ol2XOaXdhty7GDu6ASSMnswv8umVDDjqJ5VZ4FLfbyP50VTlM3X+/HEYhC1e7yj4o2bxGem+8xfYrLw5/Wvl3mH6xbPB1mFwULhFRpBOSno4+KnIPn6JLRrY9thmOdLuWUawW2jvCf11o8zQOFjU8AkRZ2+kO+0jUtqOZyDui2qkemq3117TppnIZNjYDKqPsdsgd5jSExc11hu8uYr7IXVQcN6Ksb+sY3TbLZjnXuJT/Br9H8z/sKobFzqvsfJiKkTeXwlLLQibwdbEClKezxk8ReH9r67Z",
   "min_php": "7.1",
-  "notes": "앱의 메뉴를 사이트 웹 메뉴와 같은 구성으로 보여 주고, 웹 화면 속 링크 주소를 바로잡았습니다."
+  "notes": "이름 표시: 작성자·추천인 기본값도 고르지 않은 채로 둘 수 있습니다(고르지 않으면 웹과 같은 닉네임). 이미 고른 설정은 그대로입니다."
 }
