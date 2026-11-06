@@ -1,9 +1,9 @@
 {
-  "version": "1.1.15",
-  "date": "2026-11-06",
-  "zip": "releases/appapi-1.1.15.zip",
-  "sha256": "4089bf605183ce5ddb0a50a93d0f3441f68af75cf32bf640c267dbb7735fe6d0",
-  "signature": "PU1hUJl7pyO9jUsJZMrizCQ6gU3qWQly99NcGaqG4YmKMARc89ODMsJZhHTyodwpmP6lNYRFrhwW+fnA1c60MkYkGkI8CtU/cwVa9GTQLVB8Y3Z9NfPzOQpF57J10tKyCyJIk6NCBxMB6niCt1Ayg+ZQhc+l91fO7Fz6av75/4WgVe8cdlyg/urdZEhddR20MpL+rUaWlvOrWIaeaRgfvX+OuYL6IFrDj38GN8nbVUOxBd/Brbw66JOulwyIG6LaY4INk2/kxw1Gdseb2IBWeW9ce7wiJPDeRFcZ48xXjbBXauAOfCYmesVVsEIEDwscZKt4+TXejCdNZPE+ViDpr6/oGXH4Vyv2g+k53Izn8zWDm/tsBDS0hysLM3EubLYZ/MtmZ/i9DWzFptboZSRxaZOb0lgnem1XzPbbkxB8nyzNfHP5ribO7eb7T89X0LH4m/IxP8wtCRmeTtzYHOlcC+8vkfbRqin7bAIK2hnd6M7ESvV0z2CeQcNbu/jgbCRA",
+  "version": "1.1.16",
+  "date": "2026-11-07",
+  "zip": "releases/appapi-1.1.16.zip",
+  "sha256": "c3b9d3ae6ab4594635bfe937a9422e1927df1f634ea0364c21593e680e710f0f",
+  "signature": "SwE/u2wEDHT3aul6gmwmZUNsZr66e05TgnnGY6tEucpC2bxZiu4RwXjTcYuWC5NNe3FUkwTGNjLwgcG8kFmBYP8/UDfRAQEw2iqVVxVzKzSJQibKaU9+0NKfwBNCf2PC7oWK+y7JrYzDZGTBms1uetIiMetEqcrRQOT2Zjffr5jNLoLJXSWh0QAZoPn3WMAADi3Znc0wRFDjwADfeFAUre8BdHh4Ztjfc1ka7VVQB5tXiWDcrbD163jGMJ6O2XUswAqfnGPJiYKTNbinQpImL0rTZRJIVG+lgfQZulv9sNwleUTZcUvnLbgt+/fJpfBvfs/KSZFS9sqmnAA3WgMi1iR+nbH6OsmhlenGqBiDaBDjIiJ/U0PNhdaauK1j7yJR16CH049ju6K/u0UQrZTm+tZZcqDEHkzuGoKEhRTkoKhC6xKXRQq84FLjd3lqr6xjRN4DahdYsN9uojCKAfYg3ChgzqYeda6jAZhyJ3fIIP8aGXiPqgBmMxBt1CA5uEej",
   "min_php": "7.1",
-  "notes": "'그 밖의 게시판'에 웹에서 찾아갈 수 있는 게시판만 보입니다(어느 메뉴에도 없고 첫 화면도 가리키지 않는 게시판은 감춤)"
+  "notes": "그누보드5: 메뉴에 없는 게시판은 웹에서 찾아갈 수 있는 것만 '그 밖의 게시판'에(전체 검색 사용 또는 첫 화면 최신글). 다른 엔진은 번호만 올림"
 }
