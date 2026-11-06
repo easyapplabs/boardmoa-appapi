@@ -1,9 +1,9 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "date": "2026-11-06",
-  "zip": "releases/appapi-1.1.8.zip",
-  "sha256": "fcd988f733ed72015c8c6dda52b08510397860d4a55edd6cbafac87edf48ecec",
-  "signature": "CzfA9AwQ80CWKcmJ8JfsFZK9aJAt5WtXtCw+h5EFIDun2SFyfBp4UudMu9ziBiA0otNVTnBC8i6ChKsonfFV36oWRdwaw2Wh1TEV9H8oLvYPc32EP9qWx0HZaHah/DfF2esAxi8g91CPbLZ0SFQX9McQIAMqNS0UNoRHDE77dtn04OpfEVQlwk/Fah5OnIN5Ai3l9WokBKGctSyxx/n5qD9Ss4cWwLi+5M89x2JFSuXROG808dEuUMTW1Wx6Iy5w2Gs+C6QBLbLKx8c+hgCY8Q9MYk5rq0Is/WuwwNXhVKlOXeNY6fU031BTsqyPms7rTIjfotW/nk3kOE3cHoKdzpku35z88yvTZlV1aSYTxCwhXcGvKqtFplZr+5mHg/IWwTlAXTE8AZ62E6mAfwsvRQ+f7kzJtD5bVLTH9u9xdchVK2OkX6VSd5QAgYbd0uGdqHpx0zlerrUYgkDj5Y7wZ/NZ7KErgnpkLLvEBi48Q2nQPhCbfu5la+Mgc2Tj45fO",
+  "zip": "releases/appapi-1.1.9.zip",
+  "sha256": "a51f406749c4a7507c1bee7052508b36d9a7658c9d32dc9a85e3d452eb71dbea",
+  "signature": "c0BQUi2Shi+q+VYXynGSdZTEcMK8dkv3CrjKUQX5eoFtJOsMc9t0aW5YSdONw1wy0cNY9hiRmPjcj5iP0XyHFPQazBkqIx/FTr7s9V3zQF8ZDWhjNoV84tREf97K8StUgqp8NKaNzewH5BnbvW67/c3OlgCWgc2hdH7UayuYykPkzRjU5sGaFbPG4h/DHOkTf82neeArwhfRDw1vvm5keT6PF+7RFgKIPDSTj+H7wqkYejBZYkTcmNKqq2CvtfuLtb3K7GpdG9b8ce5WBl9m6NFL9FpsmzTE2JIXSvzbwzlzWY15CQ+dosm0/gKYUZvcFnp3Acm3ucjuHV6yklL5T1tB3O1nAVA6g3CGwPRZbLDmHWVd/wUSiKbnKUtWuWJ84f8/V34+gRU/hQcsYU64YqeuBYP7o7rPxTY9I8L7tsSroqodgsup7QswwQn9eU6xYJTh4sa8BitCRJWDYnJaqLyycQAwNaCcu49wNAhPDA38dIAZa25PBUAoTOspleVa",
   "min_php": "7.1",
-  "notes": "첫 화면에 메뉴가 없는 사이트에서 앱에 게시판이 보이지 않던 문제 수정, 메뉴에 없는 게시판을 '그 밖의 게시판'으로 표시(관리 화면에서 끌 수 있음)"
+  "notes": "봇 차단 모듈(구충제 등)이 켜진 사이트에서 앱의 게시판 목록·글 보기가 막히던 문제 수정"
 }
