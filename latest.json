@@ -1,9 +1,9 @@
 {
-  "version": "1.1.14",
+  "version": "1.1.15",
   "date": "2026-11-06",
-  "zip": "releases/appapi-1.1.14.zip",
-  "sha256": "f7711d19e85c85b710c206f104c5d77ea576db214a87fa51be767ba28ae31969",
-  "signature": "RNhzerCjH3LqWG2+svFIswGogr2q3eMuxrx5Jwfv+jTedkxmg5vd4I40suPxjc7RWu3kvA3vNjnpNu2mXpZGmt6RVUGEeYAXZYDxEH1/1SstZbUi4uWZU/ikqUl56heGQDxZVWg/gqB4BNFYz2SjJx/JlxHsAEl3mFWgXUuO3iNiT3YnM6MAb50ElYDHosHiE0/iqbjF45DD32lLXzaT0Plss/H4+hitMVzIvk18MQohjPrVY+nDlLSzxqv9S7v+Mfnuw5x0IhrePayndfC2iSvAbgbMTR8loYCCzepM2bn73zDLRLKx2M2PZHiXJTAf6aW/FFomw//Ic61y8KrssjOLnrND1jjNZ/HDym5ZyUtTxRzgjd2vTJcPl2cVvb91OaaHMTn/GV576AMgkoKIL3OUTdkDSXNIgWJ6fMyb8XgemBt6VzhAjWqEoQuNrBA89BLqzynMa4+AJ28b4WWrjTZDl93V/jGcOmfWbT6VE1Uz//sG9McJgoQjxV4yQ8i0",
+  "zip": "releases/appapi-1.1.15.zip",
+  "sha256": "4089bf605183ce5ddb0a50a93d0f3441f68af75cf32bf640c267dbb7735fe6d0",
+  "signature": "PU1hUJl7pyO9jUsJZMrizCQ6gU3qWQly99NcGaqG4YmKMARc89ODMsJZhHTyodwpmP6lNYRFrhwW+fnA1c60MkYkGkI8CtU/cwVa9GTQLVB8Y3Z9NfPzOQpF57J10tKyCyJIk6NCBxMB6niCt1Ayg+ZQhc+l91fO7Fz6av75/4WgVe8cdlyg/urdZEhddR20MpL+rUaWlvOrWIaeaRgfvX+OuYL6IFrDj38GN8nbVUOxBd/Brbw66JOulwyIG6LaY4INk2/kxw1Gdseb2IBWeW9ce7wiJPDeRFcZ48xXjbBXauAOfCYmesVVsEIEDwscZKt4+TXejCdNZPE+ViDpr6/oGXH4Vyv2g+k53Izn8zWDm/tsBDS0hysLM3EubLYZ/MtmZ/i9DWzFptboZSRxaZOb0lgnem1XzPbbkxB8nyzNfHP5ribO7eb7T89X0LH4m/IxP8wtCRmeTtzYHOlcC+8vkfbRqin7bAIK2hnd6M7ESvV0z2CeQcNbu/jgbCRA",
   "min_php": "7.1",
-  "notes": "앱이 보내는 X-AppApi-Token 머리말로도 로그인을 받습니다(공유 호스팅·프록시가 Authorization 을 넘기지 않는 서버 대비)"
+  "notes": "'그 밖의 게시판'에 웹에서 찾아갈 수 있는 게시판만 보입니다(어느 메뉴에도 없고 첫 화면도 가리키지 않는 게시판은 감춤)"
 }
