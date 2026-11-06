@@ -1,9 +1,9 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "date": "2026-11-06",
-  "zip": "releases/appapi-1.1.7.zip",
-  "sha256": "e4cd031b162728d1f918b31bd39bdb5519aa0038834676dc8fc239cc6eec82e3",
-  "signature": "TztNz93nvR5AHh99dU1cIR06dffiTSeMa613Cu0KjQnmeAzrjNaSE1Hloa9FTEKrTMwIF1nhj+8k4hzOs7vsip3m/ZEEShSCR2QUc5U35PWLbUkt0a+lIWxuIz9bX1Fsf81rfml4Tvhd+W8G5Xe2TSmcD1F1ps5FVCdtvbt0dvOgmHTi+yR8rxEgl9PhSbR9kjNcgTFeH5LlpYe3arHnzlL5RElh6CiZUkaZpn2Imy8JJkkw7yI91GRbCKCH1QSq5LfyBzRm/zB8c0pd8tSviEnjFCoXGLvufAfZXzLKsHT/VqhBdBct4SaOWqtym6OKDfjt1twm4o3LREFGcKWsOGcgDJu504bpKWBGFeWkp2tYgsiKEY70ZhwvsdT/Ir8ed634QZFhd89D1t82jTqr8CNT0mt/V6oSSsXeJ0mtbstouL7GseYymEquTEfg3p9ZY38U/DqW8v2AniAjcsn/8iKWHdtDlk42Yn711CGqOP8OXi2yH74VkzOAavvvPhSb",
+  "zip": "releases/appapi-1.1.8.zip",
+  "sha256": "fcd988f733ed72015c8c6dda52b08510397860d4a55edd6cbafac87edf48ecec",
+  "signature": "CzfA9AwQ80CWKcmJ8JfsFZK9aJAt5WtXtCw+h5EFIDun2SFyfBp4UudMu9ziBiA0otNVTnBC8i6ChKsonfFV36oWRdwaw2Wh1TEV9H8oLvYPc32EP9qWx0HZaHah/DfF2esAxi8g91CPbLZ0SFQX9McQIAMqNS0UNoRHDE77dtn04OpfEVQlwk/Fah5OnIN5Ai3l9WokBKGctSyxx/n5qD9Ss4cWwLi+5M89x2JFSuXROG808dEuUMTW1Wx6Iy5w2Gs+C6QBLbLKx8c+hgCY8Q9MYk5rq0Is/WuwwNXhVKlOXeNY6fU031BTsqyPms7rTIjfotW/nk3kOE3cHoKdzpku35z88yvTZlV1aSYTxCwhXcGvKqtFplZr+5mHg/IWwTlAXTE8AZ62E6mAfwsvRQ+f7kzJtD5bVLTH9u9xdchVK2OkX6VSd5QAgYbd0uGdqHpx0zlerrUYgkDj5Y7wZ/NZ7KErgnpkLLvEBi48Q2nQPhCbfu5la+Mgc2Tj45fO",
   "min_php": "7.1",
-  "notes": "XE 1.11 보안 수정 포크(1.11.27)에서 게시판 목록이 열리지 않던 문제 수정"
+  "notes": "첫 화면에 메뉴가 없는 사이트에서 앱에 게시판이 보이지 않던 문제 수정, 메뉴에 없는 게시판을 '그 밖의 게시판'으로 표시(관리 화면에서 끌 수 있음)"
 }
