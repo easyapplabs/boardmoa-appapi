@@ -1,9 +1,9 @@
 {
-  "version": "1.1.13",
+  "version": "1.1.14",
   "date": "2026-11-06",
-  "zip": "releases/appapi-1.1.13.zip",
-  "sha256": "5b5705bc69ab70d667393621833ca711f5074558fd406b6c6bb0c5d188438e87",
-  "signature": "vjY/VgFimAfLCxiRnN4nhD+fgI8l/QpE/k0YVdXGTv/R0rHDRcjCSEtflbPhQ2q1mDDxah/7wTuGMC0pXiBWWDJnp9tqKQB3go1epBRqXpCSTJP4oavaQM+8TX9HdGOVFaLL22kF4BP0nYyMnMDMOpvir46JyipInYM0esZz5KTafgr8HyBsUBpOzpPkcYzfK6xM6eEPgZrqKOS/ESig56W7SLbp+aEiAdrYmYCVh8TC1LZj4S59vMUctHCKNnne6La8x7owTALhWh9icEQg8k/XMwli0SRhvDeT01MBkl1SYTFUXH20AYqWMw22ckJXgqoaOW0ee8wLRBrOWnV31ZTYPJnhLgkd1MgAmbDIS0kgAS6q2WLz40m3jBcrQAepjMYpenbqCFNyyfp5BhKJvsn1C6Nv06tHCA9kQolzS5LZVtTyIlAPRY7nJtm6pCYPpjtAd6YUW787JZZ0L08zn4zP+F2Q6bdM/XLFCI1IrpOQIQxjGuGo90jxjzOHuJ3d",
+  "zip": "releases/appapi-1.1.14.zip",
+  "sha256": "f7711d19e85c85b710c206f104c5d77ea576db214a87fa51be767ba28ae31969",
+  "signature": "RNhzerCjH3LqWG2+svFIswGogr2q3eMuxrx5Jwfv+jTedkxmg5vd4I40suPxjc7RWu3kvA3vNjnpNu2mXpZGmt6RVUGEeYAXZYDxEH1/1SstZbUi4uWZU/ikqUl56heGQDxZVWg/gqB4BNFYz2SjJx/JlxHsAEl3mFWgXUuO3iNiT3YnM6MAb50ElYDHosHiE0/iqbjF45DD32lLXzaT0Plss/H4+hitMVzIvk18MQohjPrVY+nDlLSzxqv9S7v+Mfnuw5x0IhrePayndfC2iSvAbgbMTR8loYCCzepM2bn73zDLRLKx2M2PZHiXJTAf6aW/FFomw//Ic61y8KrssjOLnrND1jjNZ/HDym5ZyUtTxRzgjd2vTJcPl2cVvb91OaaHMTn/GV576AMgkoKIL3OUTdkDSXNIgWJ6fMyb8XgemBt6VzhAjWqEoQuNrBA89BLqzynMa4+AJ28b4WWrjTZDl93V/jGcOmfWbT6VE1Uz//sG9McJgoQjxV4yQ8i0",
   "min_php": "7.1",
-  "notes": "첫 화면과 게시판이 다른 레이아웃을 쓰는 사이트에서 게시판 쪽 메인 메뉴를 앱 메뉴로 사용"
+  "notes": "앱이 보내는 X-AppApi-Token 머리말로도 로그인을 받습니다(공유 호스팅·프록시가 Authorization 을 넘기지 않는 서버 대비)"
 }
