@@ -1,9 +1,9 @@
 {
-  "version": "1.1.10",
+  "version": "1.1.11",
   "date": "2026-11-06",
-  "zip": "releases/appapi-1.1.10.zip",
-  "sha256": "a491f68f4c5df1850ef94bbc78523a348486054d0ef5ad14053b181043ed7656",
-  "signature": "O7H5yWifnOlS/cD0B/ApxH4XWqo2jk4csBl0NppDEm01T03c2/sLRPGoYy0xiwMP6A2BFqVd03JlmWIErQLhnHDYO06HhGPBVqsd1edTtrVqdVdDwcZg9l46mPt6o8r7RBn41jSqRDrHMFMqaIi0kqVQIU+IgG4+olD+FWLfl+0sImKwVAB6sd5NrJzfoBNFZ6gu0eXMlp7EjZ2QQuBtzP0UWk6P00CmFTdar1kww5k0+iXGyGf+koJCdpQ6/QTxULZyVKwllaYBwT5v/5jMbTBgCY1rbiXxnj8r39+aoKI6UYYWWFmDXs8FsvQDGoq/eFvIyxNeLdpUtqgobT9FH9h4UT1G61Yk+lw2OVygegNTjXXDNSV+EsNmVUFwi19ulbIA0WHjUwrR0KsVeu2wwOwA1jFTdfcCrCB7VDoZldyyMvIswQHiwcba0oOn5ArSP8mO/L1pSpTiHK8TsgWR9cdcEB/1Nwrc+irZ11LR+mW0zo4IyvUN1psgIC7+cPJ+",
+  "zip": "releases/appapi-1.1.11.zip",
+  "sha256": "d039ed0b8be8cac888b9c38860ef817184b9c1a3a3c37450e9fe79aa846fa60b",
+  "signature": "qHhWmU2HJq3lLYJHmQtS1JDn8zjGDommR+1UdXld2Z/kTTugNt2uI+AN78/a1zFxw+FJVOAgZVFBjZVFBW0k1f5qgefJDi9weS7jbG+oOI2dM5C9T9cptiPOSttaycmuAWClaAl31Ywez078lgE4MxmgHdtMj9NtXL+QZZIAyt3NqFvGW/1MouCYwo6gyKsF0NlyWKc4/t/V1PqANNnZSsPRFGN0vDmq1I5koMsxtl5uo04vMeXJ9UF3JY73JZ2g6h9iXut3R+WiqZLLdodTOEPpelUggHtSGgCkWKYbkSNAqn127W/9TMckLfSIxumSEMJ9xfwLC/R9yLlz4rbTlFf2dHkZwYnQyVUAd/2p3QNXX02rZwe5eD8RDqgkdZaHSKx4alKnqBJTMZuM2rEBiI0DpkY7Kl7t3UodGCyUYP8jBS3vXH6tPMHtbAZ1Sz8oG2ql45kRTkALPnkRuI21KPAvfo+ZI9DGONo2abpXSr5HenyauPNTKl4g2yoPnqjc",
   "min_php": "7.1",
-  "notes": "메뉴의 모바일 주소(m.) 링크도 같은 사이트 게시판으로 인식"
+  "notes": "메뉴의 바로가기가 /게시판/category/0 처럼 분류·쪽 주소여도 앱에서 게시판으로 열리게 수정"
 }
