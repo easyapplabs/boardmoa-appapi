@@ -1,9 +1,9 @@
 {
-  "version": "1.1.16",
+  "version": "1.1.17",
   "date": "2026-11-07",
-  "zip": "releases/appapi-1.1.16.zip",
-  "sha256": "c3b9d3ae6ab4594635bfe937a9422e1927df1f634ea0364c21593e680e710f0f",
-  "signature": "SwE/u2wEDHT3aul6gmwmZUNsZr66e05TgnnGY6tEucpC2bxZiu4RwXjTcYuWC5NNe3FUkwTGNjLwgcG8kFmBYP8/UDfRAQEw2iqVVxVzKzSJQibKaU9+0NKfwBNCf2PC7oWK+y7JrYzDZGTBms1uetIiMetEqcrRQOT2Zjffr5jNLoLJXSWh0QAZoPn3WMAADi3Znc0wRFDjwADfeFAUre8BdHh4Ztjfc1ka7VVQB5tXiWDcrbD163jGMJ6O2XUswAqfnGPJiYKTNbinQpImL0rTZRJIVG+lgfQZulv9sNwleUTZcUvnLbgt+/fJpfBvfs/KSZFS9sqmnAA3WgMi1iR+nbH6OsmhlenGqBiDaBDjIiJ/U0PNhdaauK1j7yJR16CH049ju6K/u0UQrZTm+tZZcqDEHkzuGoKEhRTkoKhC6xKXRQq84FLjd3lqr6xjRN4DahdYsN9uojCKAfYg3ChgzqYeda6jAZhyJ3fIIP8aGXiPqgBmMxBt1CA5uEej",
+  "zip": "releases/appapi-1.1.17.zip",
+  "sha256": "eba9e9c3c1ede40c397f6ea99b38311e24b66781920ded4e41408adf560af625",
+  "signature": "URp+djc3j9txLqzpILSNoDsmEcmkGOfnH84+SIVnsvTshAa+NWBXzDu3PTkOIczxKpfTankifTKMjbTCPcBbPCSaKLIAvDjrOjCD3bvxHtUlNxSDF3lg2xk+LQb+GrDohgaUUPZtaD6xVrSnlCeJUeL2rkQmlnI23t4MTAJw9Rbc0Rx8ktWdloojedUAPCnURgIVrV2y1IHwjqfOvTnI5OCEsf77cxyQHbBZKAEK59lQggm1oBaDirW8paEifRjWBAQn/7JSC/mmX8WuqVEP6D6/N4m0l4qgSpogz2XobacFIiiyQN53j8ro8DLC1T6nhHO4qWjC7z6tIzN2zhZ9nPk0F1thAYmlFyRrxCUVS+xYoNPml52AjktByO2eziAeMnDwRb28if0mBRnyOUUiwbu0GPQRaKN7JE4X+uru6jDXjwRjIyGlhuLXY58sa4Bht9Ri2pNG3qfGo8Vn1uXn6F/KXG98wAJn7aMcD/AaFWqSUfU5rEGw2ZLx3ctE4lic",
   "min_php": "7.1",
-  "notes": "그누보드5: 메뉴에 없는 게시판은 웹에서 찾아갈 수 있는 것만 '그 밖의 게시판'에(전체 검색 사용 또는 첫 화면 최신글). 다른 엔진은 번호만 올림"
+  "notes": "관리 화면에서 '그 밖의 게시판'에 보일 게시판을 하나씩 고를 수 있음(XE/Rhymix·그누보드5·WordPress). 다른 엔진은 번호만 올림"
 }
