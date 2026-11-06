@@ -1,9 +1,9 @@
 {
-  "version": "1.1.18",
+  "version": "1.1.19",
   "date": "2026-11-07",
-  "zip": "releases/appapi-1.1.18.zip",
-  "sha256": "c27e8e2f55c7b33b5497286911507933bbead87e200de772178d98925ab5b745",
-  "signature": "NQ7i1OmCobJ0eIKNluOdSHAM/c87zr6SY+DnA16QQo6sy17YcuTtrdqDQs2hUmjsm7Rqr3K//CEAbcTykVglI+s3sQBVqIWwjggTduNns5xn63XWVK0OjBbC5+dZSdnOUlMZYQkuup+DtpjGqtDdi2cfGWdy7ubpJuWIYmmgpxiVsWc+Ryp2IBZjBxkeoGIGo+6UBNDsF8v1L0fuPx62MsudjIhtW1rcs70XXuuvu/aA09fQQpHvcK+L6uRz8CFXhz/OpdaFrwLH5XhHqH056WhtFeSrMiiVvGEsfJRGGQ2IACn0lWmTf9aVyYlnV7QQSeOMHQv6hRAnUU6CGXaPrIyrVOEC9sGE7joOpswFcyha4krQUv/HD9PGCHOe86AqD+qXLd67iRAnckp5HEHtdpN7FOEISYQkiULXIlB8jRM6x6rbZchvd27tqgwHh8g53mvZcZeuoxbDqBPz7Lqw/v54IX3JyH/39eTstn+0QFJKiYUWyQ1bxMjuEbfHGXdk",
+  "zip": "releases/appapi-1.1.19.zip",
+  "sha256": "fb5a2906e97c96e1fec14541db5182f97cf6b22b1bf48fb23dee1badb7b80f5c",
+  "signature": "Eh0otQ9BrabkmOvqioLGlmC5M1pwVoZMn87FEFJdGnFREy9wG9t5sCyvGuu7J8mPZGRoXaE+5UEKv5kk5Moj5l8eOXDdZuH/bWbdoA4qQ3XFZokGxO4N4Ae0z4IcTavSL6zyTkB5ACo71gUsoro5L/ktYooWJHTtnLmwxHWqYffxZ3V/IKdsZrvvinBOyUccpG5NCUKfVHqgY5gz5X+KbHyWMktnK94sLKMzyzOjuaw9SaNHZHp5cHmFP6WxMBaRTcIH1QZQCqkotdSbkUq33t2Q8/3zNHalmlq5rGSUZClAGpUk9v8WLCPX5YECqAWE0hP6AZZpXu6RvTJhhuCHWX/jE7LW+FbSe0/ZyDDKeIHEhq8K0UBVbB8lSwAfeWLaP3tq7tpZxGFH04KpT7shWIbir1wuTB7Kyi4cJKNVM55vo0PY2ZbTHZ/dF8x1ehXBT2Q5kVvZfNXB4/yqmUYrnT2EZxfJ9SojLyLyg//yLb6XMOBBy80l7WIYE3fLnBzt",
   "min_php": "7.1",
-  "notes": "'그 밖의 게시판' 고르기를 다 만든 목록에서 처리(동작 같음). 다른 엔진은 번호만 올림"
+  "notes": "'그 밖의 게시판' 이름을 관리 화면에서 정함(비우면 앱 언어의 기본 이름)"
 }
