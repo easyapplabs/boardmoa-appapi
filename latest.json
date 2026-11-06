@@ -1,9 +1,9 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "date": "2026-11-06",
-  "zip": "releases/appapi-1.1.6.zip",
-  "sha256": "0bc96858e4ae732a431b99e794cf1017553faa3b70b0350300da4ad28a6e0354",
-  "signature": "U/R9MM9BP3iQ+5UBepKMvcWh2ApIALEWb0kOJWEsgiz1TO2MLX4VEM1f0Nh50FXmM9NSMnk4AddNd2KNorKrC34MzPS1TSHzvDvA+VOJ34KRTyh52D6P1XjtMzysGMHfi+Gidqq3JhJjja7deXLn6qiQDNLYvkSkf+RTDmFTR26xmZityOyzxTQM8rl/wKqaSTPCnBEzW/t2tCUOM/Bu6IevvQdufS+6e5Y7RuQZXQ8TGIKqcHfXsGyNwSyJ3wfMfWvp7U1Bt8Nlt8Da2dasTNSJDBZKNYFMyMsddJComRuAeuMvq8AafkCvJYnUS8k2k1qkxiPzSbAY3P96ebIqmZfDmb8lx9W5yYmqDQn+Hfop2MzP8od1BFgT13hKgOAqfWAWHOxFiA/m5t7ZJJiqOEspOMpZ6rb6dq0SK89iaDyynCYv7oVFTdk42E7FVz1ocVTO9XnZTI9aihten2X+SrpVXpMtMr/6a6Lzu07NaANM/F/rBNiFqUsGtTRqHA3q",
+  "zip": "releases/appapi-1.1.7.zip",
+  "sha256": "e4cd031b162728d1f918b31bd39bdb5519aa0038834676dc8fc239cc6eec82e3",
+  "signature": "TztNz93nvR5AHh99dU1cIR06dffiTSeMa613Cu0KjQnmeAzrjNaSE1Hloa9FTEKrTMwIF1nhj+8k4hzOs7vsip3m/ZEEShSCR2QUc5U35PWLbUkt0a+lIWxuIz9bX1Fsf81rfml4Tvhd+W8G5Xe2TSmcD1F1ps5FVCdtvbt0dvOgmHTi+yR8rxEgl9PhSbR9kjNcgTFeH5LlpYe3arHnzlL5RElh6CiZUkaZpn2Imy8JJkkw7yI91GRbCKCH1QSq5LfyBzRm/zB8c0pd8tSviEnjFCoXGLvufAfZXzLKsHT/VqhBdBct4SaOWqtym6OKDfjt1twm4o3LREFGcKWsOGcgDJu504bpKWBGFeWkp2tYgsiKEY70ZhwvsdT/Ir8ed634QZFhd89D1t82jTqr8CNT0mt/V6oSSsXeJ0mtbstouL7GseYymEquTEfg3p9ZY38U/DqW8v2AniAjcsn/8iKWHdtDlk42Yn711CGqOP8OXi2yH74VkzOAavvvPhSb",
   "min_php": "7.1",
-  "notes": "이름 표시: 작성자·추천인 기본값과 쪽지·친구에 '기본값(웹과 같게)' 단추를 넣었습니다. 이미 고른 설정은 그대로입니다."
+  "notes": "XE 1.11 보안 수정 포크(1.11.27)에서 게시판 목록이 열리지 않던 문제 수정"
 }
