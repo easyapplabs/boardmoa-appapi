@@ -1,9 +1,9 @@
 {
-  "version": "1.1.19",
+  "version": "1.1.20",
   "date": "2026-11-07",
-  "zip": "releases/appapi-1.1.19.zip",
-  "sha256": "fb5a2906e97c96e1fec14541db5182f97cf6b22b1bf48fb23dee1badb7b80f5c",
-  "signature": "Eh0otQ9BrabkmOvqioLGlmC5M1pwVoZMn87FEFJdGnFREy9wG9t5sCyvGuu7J8mPZGRoXaE+5UEKv5kk5Moj5l8eOXDdZuH/bWbdoA4qQ3XFZokGxO4N4Ae0z4IcTavSL6zyTkB5ACo71gUsoro5L/ktYooWJHTtnLmwxHWqYffxZ3V/IKdsZrvvinBOyUccpG5NCUKfVHqgY5gz5X+KbHyWMktnK94sLKMzyzOjuaw9SaNHZHp5cHmFP6WxMBaRTcIH1QZQCqkotdSbkUq33t2Q8/3zNHalmlq5rGSUZClAGpUk9v8WLCPX5YECqAWE0hP6AZZpXu6RvTJhhuCHWX/jE7LW+FbSe0/ZyDDKeIHEhq8K0UBVbB8lSwAfeWLaP3tq7tpZxGFH04KpT7shWIbir1wuTB7Kyi4cJKNVM55vo0PY2ZbTHZ/dF8x1ehXBT2Q5kVvZfNXB4/yqmUYrnT2EZxfJ9SojLyLyg//yLb6XMOBBy80l7WIYE3fLnBzt",
+  "zip": "releases/appapi-1.1.20.zip",
+  "sha256": "12dc58496e6110d8f0fae17f2712acf4b61a0783fe65f0aaf0bcc4e65162c17f",
+  "signature": "loVKX7nJnifyxtb3KRnSQ2YvmRwIjjbLuvQqMbwJQFOhUYWqzqERIGbhMKd0orqO3Vku2ZTRLGoZZeEGR3n3XMm+ca4IHjQdEz08CTbQYT1y5+rPrKeJnLIOzfivpAm2PBmuqieKp52wzV0K1ZwU6+ol2HnvRE89KxCl3Ak2+cXdzNg6oy29v8pBjWkAkIDakkPdOq3yp4lugrhyoZZBNA5G7cCCT8SLaFMSe0IkKqxF8hMnHKxVteflZBM10cgtEj+Kj4QnXSGWfl4UDqlD7Hmc+m7iFjockOdXANj9UPTe6vys0RygJBkanYOKkKQ9dNHSkegay8Iljqm18mF6VzPd9/FPKuqH3eTj6ovwvf9x2+YVPqDWS89jhQQMkit/OxlKmWkXBlBG2Hkv4SZLCtQwKld+4QEdmipCyeCkBLjvOIufjkCR6+qcaXy7fhuq/pe0V1rKgEKGc4fA58Z4OmvYqzTJk1WKgvdjq57f9tsQucJ9cz1Nod+QTwDPrSWr",
   "min_php": "7.1",
-  "notes": "'그 밖의 게시판' 이름을 관리 화면에서 정함(비우면 앱 언어의 기본 이름)"
+  "notes": "추천·비추천·스크랩·신고 단추를 웹이 그 사람에게 보이는 그대로(스킨 화면을 그려 판단), 댓글 신고"
 }
